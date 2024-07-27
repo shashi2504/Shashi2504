@@ -2,7 +2,7 @@
 
 Welcome to my profile. Here you can find all about my projects and interests.
 
-![Profile Image](https://example.com/path/to/your/image.jpg)
+![Profile Image](D V Shashidhar Reddy.png)
 
 ## About Me
 
