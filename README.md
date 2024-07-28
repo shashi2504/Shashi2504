@@ -1,6 +1,6 @@
 # Hello! I'm
 
-![Profile Image](https://github.com/Shashi2504/Shashi2504/blob/main/D%20V%20Shashidhar%20Reddy.png?raw=true)
+![Profile Image](https://github.com/Shashi2504/Shashi2504/blob/main/Profile.png?raw=true)
 
 - 🔭 I’m currently working on advancing my professional skills.
 - 🌱 I’m currently delving on Docker, Kubernetes, Jenkins, Ansible, Terraform and security practices.
