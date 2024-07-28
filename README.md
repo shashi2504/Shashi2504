@@ -2,6 +2,14 @@
 
 ![Profile Image](https://github.com/Shashi2504/Shashi2504/blob/main/D%20V%20Shashidhar%20Reddy.png?raw=true)
 
+- 🔭 I’m currently working on advancing my professional skills.
+- 🌱 I’m currently delving on Docker, Kubernetes, Jenkins, Ansible, Terraform and security practices.
+- 🚀 I’m passionate about developing scalable solutions and automating infrastructure.
+- 🎓 I'm in my senoir year pursuing a graduate degree in EEE
+-  I'm passionate about astronomy and stargazing. Let's explore the cosmos together! 🌠🔭
+- 😄 Pronouns: HE/Him
+- ⚡ Fun fact: ...
+
 ## About Me
 
 Briefly introduce yourself here. Share your skills, experience, and any other information you think is relevant.
@@ -13,9 +21,8 @@ Briefly introduce yourself here. Share your skills, experience, and any other in
 
 ## Contact
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **Email:** shashireddy0403@gmail.com
+- **LinkedIn:** [D V Shashidhar Reddy](https://linkedin.com/in/yourprofile)
 
 
 <!--
