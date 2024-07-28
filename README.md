@@ -2,7 +2,7 @@
 
 Welcome to my profile. Here you can find all about my projects and interests.
 
-![Profile Image](D V Shashidhar Reddy.png)
+![Profile Image](https://github.com/Shashi2504/Shashi2504/blob/main/D%20V%20Shashidhar%20Reddy.png?raw=true)
 
 ## About Me
 
