@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on advancing my professional skills.
 - 🌱 I’m currently delving on Docker, Kubernetes, Jenkins, Ansible, Terraform and security practices.
 - 🚀 I’m passionate about developing scalable solutions and automating infrastructure.
-- 🎓 I'm in my senoir year pursuing a graduate degree in EEE
+- 🎓 I'm in my senior year pursuing a graduate degree in EEE
 - 🌟 Fun fact: I'm passionate about astronomy🌠 and stargazing. Let's explore the cosmos together!🔭
 - 😄 Pronouns: He/Him
 
