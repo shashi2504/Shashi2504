@@ -11,75 +11,83 @@
 
 ## Language/Tools I can work with
 
-<style>
-  .icon-container a {
-    margin-right: 15px; /* Adjust the spacing as needed */
-    display: inline-block;
-  }
-  .icon-container {
-    text-align: left;
-  }
-</style>
+<a href="https://www.linux.org/" target="_blank">
+    <img title="Linux" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+</a> &nbsp;&nbsp;&nbsp;
 
-<p class="icon-container"> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-  </a>
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> 
-  </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-  </a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-</p>
+<a href="https://aws.amazon.com/" target="_blank">
+    <img title="AWS" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://www.jenkins.io/" target="_blank">
+    <img title="Jenkins" height="40px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://www.docker.com/" target="_blank">
+    <img title="Docker" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://kubernetes.io/" target="_blank">
+    <img title="Kubernetes" height="40px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://www.vagrantup.com/" target="_blank">
+    <img title="Vagrant" height="40px" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://grafana.com/" target="_blank">
+    <img title="Grafana" height="40px" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://git-scm.com/" target="_blank">
+    <img title="Git" height="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://www.mongodb.com/" target="_blank">
+    <img title="MongoDB" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://www.mysql.com/" target="_blank">
+    <img title="MySQL" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://www.nginx.com/" target="_blank">
+    <img title="Nginx" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://redis.io/" target="_blank">
+    <img title="Redis" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://dart.dev/" target="_blank">
+    <img title="Dart" height="40px" src="https://img.icons8.com/color/50/000000/dart.png"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://flutter.dev/" target="_blank">
+    <img title="Flutter" height="40px" src="https://user-images.githubusercontent.com/85930567/147389443-b0e06295-4659-4b21-a6ac-0c69bc3baafb.png"/>
+</a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://code.visualstudio.com/" target="_blank">
+    <img title="VS Code" height="40px" src="https://img.icons8.com/fluency/144/000000/visual-studio-code-2019.png"/>
+</a> &nbsp;&nbsp;&nbsp;
 
 
 
+## Let's Talk
 
-## Projects
+You can reach me through these links <br>
 
-- **Project 1:** A short description of the project and what it does.
-- **Project 2:** Another project with a brief description.
-
-## Contact
-
-- **Email:** shashireddy0403@gmail.com
-- **LinkedIn:** [D V Shashidhar Reddy](https://linkedin.com/in/yourprofile)
+<div>
+<a href="mailto:shashireddy0403@gmail.com">
+  <img alt="Shashi's Email" height="70px" src="https://user-images.githubusercontent.com/85930567/175770833-302b4ef2-faeb-421f-88eb-744737a4ad74.png"
+/>
+</a> 
+<a href="https://www.linkedin.com/in/d-v-shashidhar-reddy-9614291b7//">
+  <img alt="Shashi's Linkedin" height="70px" src="https://user-images.githubusercontent.com/85930567/175769904-8f101a4f-5415-4855-83d8-11e8c1ee37b1.png" />
+</a>
+<a href="https://www.instagram.com/shashi_d04/">
+  <img alt="Shashi's Instagram" height="70px" src="https://user-images.githubusercontent.com/85930567/175769762-aa808175-4426-428d-b383-8edd363c3573.png" />
+</a> 
+</div>
 
 
