@@ -71,15 +71,7 @@
 
 <br>
 
-[![Shashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashi2504&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
-     
-<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shashi2504/Shashi2504/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Shashi2504/Shashi2504/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Shashi2504/Shashi2504/blob/output/github-contribution-grid-snake.svg" />
-</picture>
 
 
 ## Let's Talk
