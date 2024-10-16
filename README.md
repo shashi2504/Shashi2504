@@ -3,10 +3,11 @@
 ![Profile Image](https://github.com/Shashi2504/Shashi2504/blob/main/Profile.png?raw=true)
 
 - 🔭 I’m currently working on advancing my professional skills.
-- 🌱 I’m currently delving on Docker, Kubernetes, Jenkins, Ansible, Terraform, and security practices.
-- 🚀 I’m passionate about developing scalable solutions and automating infrastructure.
-- 🎓 I'm in my senior year pursuing a graduate degree in EEE.
-- 🌟 Fun fact: I'm passionate about astronomy🌠 and stargazing. Let's explore the cosmos together!🔭
+- 🌱 I'm exploring the intricacies of Docker, Kubernetes, and automation tools to enhance my expertise.
+- 🚀 I'm focused on developing innovative, scalable solutions that streamline infrastructure management.
+- 🎓 I'm a recent graduate in Electrical and Electronics Engineering, ready to tackle new challenges.
+- 🌟 I'm a passionate astronomy enthusiast, always eager to discover more about the cosmos!
+- 💡 I'm committed to continuous learning and staying updated with the latest industry trends.
 
 #### Programming Stack
 
