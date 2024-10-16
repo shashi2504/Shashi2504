@@ -59,8 +59,6 @@
 
 <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
-
-
 ## Latest Blog Posts on Hashnode by Shashi 👇
 <!-- HASHNODE_BLOG:START -->
 <table>
@@ -71,7 +69,7 @@
 </table>
 <table>
 <tr>
-<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723165473847/6ec730e7-fa3e-4d8e-94db-6e556e9c8471.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Docker Compose Vs Kubernetes"></td>
+<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723312221696/28519ef6-5abe-4a56-88b3-bf2bf7e492e2.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Docker Compose Vs Kubernetes"></td>
 <td><a href="https://sik2912.hashnode.dev/docker-compose-vs-kubernetes"><strong>Docker Compose vs Kubernetes</strong></a><br>In the world of containerized applications, Docker Compose and Kubernetes are two prominent tools that help manage and orchestrate containers. While both are essential for deploying and scaling...</td>
 </tr>
 </table>
