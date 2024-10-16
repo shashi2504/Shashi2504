@@ -75,28 +75,18 @@
 
 <br>
 
-
-
-
 ## Let's Talk
 
 You can reach me through these links <br>
 
 <div>
     <a href="mailto:shashireddy0403@gmail.com" target="_blank">
-        <img alt="Shashi's Email" height="70px" src="https://user-images.githubusercontent.com/85930567/175770833-302b4ef2-faeb-421f-88eb-744737a4ad74.png" />
-    </a>
+        <img alt="Shashi's Email" height="50px" src="https://user-images.githubusercontent.com/85930567/175770833-302b4ef2-faeb-421f-88eb-744737a4ad74.png" />
+    </a>&nbsp;
     <a href="https://www.linkedin.com/in/d-v-shashidhar-reddy-9614291b7/" target="_blank">
-        <img alt="Shashi's LinkedIn" height="70px" src="https://user-images.githubusercontent.com/85930567/175769904-8f101a4f-5415-4855-83d8-11e8c1ee37b1.png" />
-    </a>
+        <img alt="Shashi's LinkedIn" height="50px" src="https://user-images.githubusercontent.com/85930567/175769904-8f101a4f-5415-4855-83d8-11e8c1ee37b1.png" />
+    </a>&nbsp;
     <a href="https://www.instagram.com/shashi_d04/" target="_blank">
-        <img alt="Shashi's Instagram" height="70px" src="https://user-images.githubusercontent.com/85930567/175769762-aa808175-4426-428d-b383-8edd363c3573.png" />
+        <img alt="Shashi's Instagram" height="50px" src="https://user-images.githubusercontent.com/85930567/175769762-aa808175-4426-428d-b383-8edd363c3573.png" />
     </a>
 </div>
-
-<style>
-    div a {
-        margin-right: 10px; /* Adjust spacing between icons */
-    }
-</style>
-
