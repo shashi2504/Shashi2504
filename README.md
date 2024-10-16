@@ -25,61 +25,68 @@
 
 <a href="https://aws.amazon.com/" target="_blank">
     <img title="AWS" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://cloud.google.com/" target="_blank">
     <img title="Google Cloud" height="40px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://www.ansible.com/" target="_blank">
     <img title="Ansible" height="40px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://www.terraform.io/" target="_blank">
     <img title="Terraform" height="40px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://www.jenkins.io/" target="_blank">
     <img title="Jenkins" height="40px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://circleci.com/" target="_blank">
     <img title="CircleCI" height="40px" src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://codeship.com/" target="_blank">
     <img title="Codeship" height="40px" src="https://www.vectorlogo.zone/logos/codeship/codeship-icon.svg"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://www.atlassian.com/software/bamboo" target="_blank">
     <img title="Atlassian Bamboo" height="40px" src="https://www.vectorlogo.zone/logos/atlassian_bamboo/atlassian_bamboo-icon.svg"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://www.docker.com/" target="_blank">
     <img title="Docker" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://goharbor.io/" target="_blank">
     <img title="Harbor" height="40px" src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://kubernetes.io/" target="_blank">
     <img title="Kubernetes" height="40px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://helm.sh/" target="_blank">
     <img title="Helm" height="40px" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://traefik.io/" target="_blank">
     <img title="Traefik" height="40px" src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://www.nginx.com/" target="_blank">
     <img title="Nginx" height="40px" src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://www.elastic.co/logstash" target="_blank">
     <img title="Logstash" height="40px" src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://www.elastic.co/kibana" target="_blank">
     <img title="Kibana" height="40px" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://prometheus.io/" target="_blank">
     <img title="Prometheus" height="40px" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://graphiteapp.org/" target="_blank">
     <img title="Graphite" height="40px" src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg"/>
-</a> &nbsp;&nbsp;&nbsp;
+</a>
 <a href="https://grafana.com/" target="_blank">
     <img title="Grafana" height="40px" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"/>
 </a>
+
+<style>
+    a {
+        margin-right: 10px; /* Adjust spacing between icons */
+    }
+</style>
+
 
 ## Latest Blog Posts on Hashnode by Shashi 👇
 <!-- HASHNODE_BLOG:START -->
