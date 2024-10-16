@@ -50,11 +50,6 @@
     <img title="Grafana" height="40px" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"/>
 </a>
 
-<style>
-    a {
-        margin-right: 10px; /* Adjust spacing between icons */
-    }
-</style>
 
 
 ## Latest Blog Posts on Hashnode by Shashi 👇
