@@ -7,7 +7,6 @@
 - 🚀 I’m passionate about developing scalable solutions and automating infrastructure.
 - 🎓 I'm in my senior year pursuing a graduate degree in EEE.
 - 🌟 Fun fact: I'm passionate about astronomy🌠 and stargazing. Let's explore the cosmos together!🔭
-- 😄 Pronouns: He/Him
 
 ## Language/Tools I can work with
 
