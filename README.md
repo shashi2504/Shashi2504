@@ -69,6 +69,12 @@
 <td><a href="https://sik2912.hashnode.dev/how-etcshadow-enhances-linux-security"><strong>How /etc/shadow Enhances Linux Security</strong></a><br>Explore the critical role of the /etc/shadow file in Linux security, including password hashing, salting, and the use of PAM for robust authentication...</td>
 </tr>
 </table>
+<table>
+<tr>
+<td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723165473847/6ec730e7-fa3e-4d8e-94db-6e556e9c8471.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Docker Compose Vs Kubernetes"></td>
+<td><a href="https://sik2912.hashnode.dev/docker-compose-vs-kubernetes"><strong>Docker Compose vs Kubernetes</strong></a><br>In the world of containerized applications, Docker Compose and Kubernetes are two prominent tools that help manage and orchestrate containers. While both are essential for deploying and scaling...</td>
+</tr>
+</table>
 <!-- HASHNODE_BLOG:END -->
 
 <b><a href="https://sik2912.hashnode.dev/">Check out all my blog posts on Hashnode..</a></b>
