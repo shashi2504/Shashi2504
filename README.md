@@ -61,11 +61,11 @@
 
 ## Latest Blog Posts on Medium by Shashi 👇
 
-<!-- HASHNODE_BLOG:START -->
+<!-- MEDIUM_BLOG:START -->
 <table><tr><td><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*gYg8driE-oB9w6y5MNS5Pw.jpeg" alt="How to Achieve Zero Downtime with Blue-Green Deployments in Kubernetes"></td><td><a href="https://medium.com/weeklycloud/how-to-achieve-zero-downtime-with-blue-green-deployments-in-kubernetes-f16612b5c257"><strong>How to Achieve Zero Downtime with Blue-Green Deployments in Kubernetes</strong></a><br>Kubernetes is a powerful container orchestrator that automates the deployment and scaling of containerized applications. With the features that enhance high availability, fault tolerance, and advanced rollout strategies. Kubernetes helps mitigate the impact of deployment errors. One such strategy is blue-green deployment...</td></tr><tr><td><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*oKgF3wdAK7bM2Mr-ImUVOw.png" alt="How to Manage Your Kubernetes Secrets with Terraform"></td><td><a href="https://medium.com/weeklycloud/how-to-manage-your-kubernetes-secrets-with-terraform-e41dce31e9df"><strong>How to Manage Your Kubernetes Secrets with Terraform</strong></a><br>In today’s cloud native environments, securing sensitive data like passwords, API tokens, and SSH keys is crucial. Kubernetes (K8s) Secrets provide a secure way to manage such data within your Kubernetes clusters, keeping it separate from application code and configuration files...</td></tr><tr><td><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*nJhabZ_k2RckDJ2HO3ravA.jpeg" alt="How these bash scripts improve you daily tasks?"></td><td><a href="https://medium.com/weeklycloud/how-these-bash-scripts-improve-you-daily-tasks-b215ebaf6020"><strong>How these bash scripts improve you daily tasks?</strong></a><br>Managing a Linux system can feel like juggling multiple tasks at once like updating software, cleaning logs, backup data, and ensuring everything is running smoothly. At starting it will feel like daunting for people who are new to this, but with the right scripts, you can automate these processes and make your life a whole lot easier! Imagine having a reliable assistant who takes care of all the repetitive and time-consuming tasks</td></tr></table>
-<!-- HASHNODE_BLOG:END -->
+<!-- MEDIUM_BLOG:END -->
 
-<b><a href="https://sik2912.hashnode.dev/">Check out all my blog posts on Hashnode..</a></b>
+<b><a href="https://medium.com/@shashi_2912">Check out all my blog posts on Medium..</a></b>
 
 ## Let's Talk
 
