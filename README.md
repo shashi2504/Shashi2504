@@ -1,6 +1,6 @@
 # Hey! 👋, I'm Shashi
 
-![Profile Banner](https://sjc.microlink.io/8ep7_fZMzkpvcISNDeeVrC3JE5DOcXE9Ko_bqfKOZknY0QfZTnCZeIFAZ_TuU6MXUIBcjhYEJsy9hDKHXkloAw.jpeg)
+![Profile Image](https://github.com/Shashi2504/Shashi2504/blob/main/Profile.png?raw=true)
 
 <p align="center">
   <em>A passionate DevOps Engineer and recent Electrical and Electronics Engineering graduate, focused on building scalable solutions and exploring the cosmos.</em>
@@ -34,10 +34,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashi2504&theme=tokyonight" alt="Shashi's Contribution Streak" />
-</p>
-
-<p align="center">
-  <img src="https://skyline.github.com/Shashi2504/2024.png" alt="GitHub Skyline 2024" />
 </p>
 
 ---
