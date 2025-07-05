@@ -36,6 +36,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashi2504&theme=tokyonight" alt="Shashi's Contribution Streak" />
 </p>
 
+<p align="center">
+  <img src="https://skyline.github.com/Shashi2504/2024.png" alt="GitHub Skyline 2024" />
+</p>
+
 ---
 
 ### 🛠️ My Tech Stack
