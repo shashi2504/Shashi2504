@@ -1,115 +1,84 @@
-<div align="center">
-  <h1 align="center">Hi, I'm Shashi 👋</h1>
-  <a href="https://github.com/Shashi2504">
-    <img src="https://github.com/Shashi2504/Shashi2504/blob/main/Profile.png?raw=true" width="160" height="160" style="border-radius: 50%;" alt="Shashi's Profile Picture"/>
-  </a>
-  <br/>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&color=8257E6&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+%26+Automation+Enthusiast;Astronomy+Buff+🌌" alt="Typing SVG of my roles" />
-</div>
+# Hey!👋, I'm
 
----
+![Profile Image](https://github.com/Shashi2504/Shashi2504/blob/main/Profile.png?raw=true)
 
-### 🚀 Featured Projects
+- 🔭 I’m currently working on advancing my professional skills.
+- 🌱 I'm exploring the intricacies of Docker, Kubernetes, and automation tools to enhance my expertise.
+- 🚀 I'm focused on developing innovative, scalable solutions that streamline infrastructure management.
+- 🎓 I'm a recent graduate in Electrical and Electronics Engineering, ready to tackle new challenges.
+- 🌟 I'm a passionate astronomy enthusiast, always eager to discover more about the cosmos!
+- 💡 I'm committed to continuous learning and staying updated with the latest industry trends.
 
-Here are a few projects I've worked on. You can replace these with your own!
+#### Programming Stack
 
-1.  **Automated CI/CD Pipeline for a Node.js App**
-    - **Description:** Built a complete CI/CD pipeline using Jenkins that automatically builds a Docker image, runs tests, and deploys a web application to a Kubernetes cluster.
-    - **Tech Stack:** `Jenkins`, `Docker`, `Kubernetes`, `GitHub`
-    - **Link:** `[View on GitHub](https://github.com/your-username/your-repo)`
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" title="go" width="40" height="40"/> </p>
 
-2.  **Infrastructure as Code for AWS VPC**
-    - **Description:** Wrote Terraform scripts to provision a secure and scalable network infrastructure on AWS, including a VPC, public/private subnets, NAT Gateway, and security groups.
-    - **Tech Stack:** `Terraform`, `AWS`, `IaC`
-    - **Link:** `[View on GitHub](https://github.com/your-username/your-repo)`
+#### OS Stack
 
-3.  **Kubernetes Monitoring with Prometheus & Grafana**
-    - **Description:** Deployed a full monitoring stack on a K8s cluster using Helm charts for Prometheus and Grafana. Created custom dashboards to visualize cluster health and application performance.
-    - **Tech Stack:** `Prometheus`, `Grafana`, `Kubernetes`, `Helm`
-    - **Link:** `[View on GitHub](https://github.com/your-username/your-repo)`
+<p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/> </p>
 
----
+#### DevOps Stack
 
-### 🔍 About Me
-- 🎓 Recent graduate in **Electrical and Electronics Engineering**.
-- 🌱 Deep-diving into **Kubernetes, Docker, Jenkins, Terraform, and Cloud platforms**.
-- 🧠 Always asking *what's under the hood* — I like understanding how tools really work.
-- 🛠️ Turning concepts into real-world scalable solutions.
-- 🌟 Believer in learning, sharing, and building systems that last.
+<a href="https://aws.amazon.com/" target="_blank">
+    <img title="AWS" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+</a>
+<a href="https://www.ansible.com/" target="_blank">
+    <img title="Ansible" height="40px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"/>
+</a>
+<a href="https://www.terraform.io/" target="_blank">
+    <img title="Terraform" height="40px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"/>
+</a>
+<a href="https://www.jenkins.io/" target="_blank">
+    <img title="Jenkins" height="40px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/>
+</a>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+    <img title="Docker" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
+</a>
+<a href="https://kubernetes.io/" target="_blank">
+    <img title="Kubernetes" height="40px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"/>
+</a>
+<a href="https://helm.sh/" target="_blank">
+    <img title="Helm" height="40px" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"/>
+</a>
+<a href="https://www.nginx.com/" target="_blank">
+    <img title="Nginx" height="40px" src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png"/>
+</a>
+<a href="https://prometheus.io/" target="_blank">
+    <img title="Prometheus" height="40px" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"/>
+</a>
+<a href="https://grafana.com/" target="_blank">
+    <img title="Grafana" height="40px" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"/>
+</a>
 
----
+#### Project Management Stack
 
-### 🧰 Tech Stack
+<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/>
 
-#### 💻 Languages & Scripting
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="Groovy" width="40" height="40"/></a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/></a>
-</p>
+### Editor / IDE
 
-#### 🐧 Operating Systems
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/></a>
-  <a href="https://www.centos.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" alt="CentOS" width="40" height="40"/></a>
-</p>
+<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
 
-#### ☁️ Cloud & DevOps Tools
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/></a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
-  <a href="https://helm.sh" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/></a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/></a>
-  <a href="https://prometheus.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/></a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/></a>
-</p>
+## Latest Blog Posts on Medium by Shashi 👇
 
----
-
-### ✍️ Latest Blog Posts
 <!-- MEDIUM_BLOG:START -->
-<table>
-  <tr>
-    <td><img src="https://miro.medium.com/v2/resize:fit:300/format:webp/1*gYg8driE-oB9w6y5MNS5Pw.jpeg" width="80" alt="Blog post thumbnail for Blue-Green Deployments"/></td>
-    <td><a href="https://medium.com/weeklycloud/how-to-achieve-zero-downtime-with-blue-green-deployments-in-kubernetes-f16612b5c257"><strong>Zero Downtime with Blue-Green Deployments</strong></a><br/>Deliver production changes safely using Kubernetes.</td>
-  </tr>
-  <tr>
-    <td><img src="https://miro.medium.com/v2/resize:fit:300/format:webp/1*oKgF3wdAK7bM2Mr-ImUVOw.png" width="80" alt="Blog post thumbnail for Kubernetes Secrets with Terraform"/></td>
-    <td><a href="https://medium.com/weeklycloud/how-to-manage-your-kubernetes-secrets-with-terraform-e41dce31e9df"><strong>Kubernetes Secrets with Terraform</strong></a><br/>Secure and manage secrets using Infrastructure as Code.</td>
-  </tr>
-  <tr>
-    <td><img src="https://miro.medium.com/v2/resize:fit:300/format:webp/1*nJhabZ_k2RckDJ2HO3ravA.jpeg" width="80" alt="Blog post thumbnail for Bash Scripts"/></td>
-    <td><a href="https://medium.com/weeklycloud/how-these-bash-scripts-improve-you-daily-tasks-b215ebaf6020"><strong>Bash Scripts for Daily Tasks</strong></a><br/>Automate repetitive work with simple and powerful scripts.</td>
-  </tr>
-</table>
+<table><tr><td><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*gYg8driE-oB9w6y5MNS5Pw.jpeg" alt="How to Achieve Zero Downtime with Blue-Green Deployments in Kubernetes"></td><td><a href="https://medium.com/weeklycloud/how-to-achieve-zero-downtime-with-blue-green-deployments-in-kubernetes-f16612b5c257"><strong>How to Achieve Zero Downtime with Blue-Green Deployments in Kubernetes</strong></a><br>Kubernetes is a powerful container orchestrator that automates the deployment and scaling of containerized applications. With the features that enhance high availability, fault tolerance, and advanced rollout strategies. Kubernetes helps mitigate the impact of deployment errors. One such strategy is blue-green deployment...</td></tr><tr><td><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*oKgF3wdAK7bM2Mr-ImUVOw.png" alt="How to Manage Your Kubernetes Secrets with Terraform"></td><td><a href="https://medium.com/weeklycloud/how-to-manage-your-kubernetes-secrets-with-terraform-e41dce31e9df"><strong>How to Manage Your Kubernetes Secrets with Terraform</strong></a><br>In today’s cloud native environments, securing sensitive data like passwords, API tokens, and SSH keys is crucial. Kubernetes (K8s) Secrets provide a secure way to manage such data within your Kubernetes clusters, keeping it separate from application code and configuration files...</td></tr><tr><td><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*nJhabZ_k2RckDJ2HO3ravA.jpeg" alt="How these bash scripts improve you daily tasks?"></td><td><a href="https://medium.com/weeklycloud/how-these-bash-scripts-improve-you-daily-tasks-b215ebaf6020"><strong>How these bash scripts improve you daily tasks?</strong></a><br>Managing a Linux system can feel like juggling multiple tasks at once like updating software, cleaning logs, backup data, and ensuring everything is running smoothly. At starting it will feel like daunting for people who are new to this, but with the right scripts, you can automate these processes and make your life a whole lot easier! Imagine having a reliable assistant who takes care of all the repetitive and time-consuming tasks</td></tr></table>
 <!-- MEDIUM_BLOG:END -->
 
-👉 [More on Medium](https://medium.com/@shashi_2912)
+<b><a href="https://medium.com/@shashi_2912">Check out all my blog posts on Medium..</a></b>
 
----
+## Let's Talk
 
-### 📫 Connect with Me
-<p align="center">
-  <a href="mailto:shashireddy0403@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/d-v-shashidhar-reddy-9614291b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/shashi_d04/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+You can reach me through these links <br>
 
----
-
-### 🔍 Under the Hood
-I'm deeply interested in the internals of the tools I use. I love exploring:
-- 🔍 How Docker layers reduce build time
-- 🌐 How Kubernetes handles service discovery and networking
-- 🔐 What exactly happens when Terraform stores a Kubernetes secret
-- ⚙️ How Ansible modules run behind the scenes over SSH
-- 🧬 What “declarative” truly means in IaC tools like Kubernetes or Terraform
-
-> _If a tool is a black box, I like to open the lid and peek inside._
+<div>
+    <a href="mailto:shashireddy0403@gmail.com" target="_blank">
+        <img alt="Shashi's Email" height="50px" src="https://user-images.githubusercontent.com/85930567/175770833-302b4ef2-faeb-421f-88eb-744737a4ad74.png" />
+    </a>&nbsp;
+    <a href="https://www.linkedin.com/in/d-v-shashidhar-reddy-9614291b7/" target="_blank">
+        <img alt="Shashi's LinkedIn" height="50px" src="https://user-images.githubusercontent.com/85930567/175769904-8f101a4f-5415-4855-83d8-11e8c1ee37b1.png" />
+    </a>&nbsp;
+    <a href="https://www.instagram.com/shashi_d04/" target="_blank">
+        <img alt="Shashi's Instagram" height="50px" src="https://user-images.githubusercontent.com/85930567/175769762-aa808175-4426-428d-b383-8edd363c3573.png" />
+    </a>
+</div>
