@@ -1,10 +1,17 @@
 # Hey! 👋, I'm Shashi
 
-![Profile Banner](https://sjc.microlink.io/8ep7_fZMzkpvcISNDeeVrC3JE5DOcXE9Ko_bqfKOZknY0QfZTnCZeIFAZ_TuU6MXUIBcjhYEJsy9hDKHXkloAw.jpeg)
+![Profile Image](https://github.com/Shashi2504/Shashi2504/blob/main/Profile.png?raw=true)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=a9b1d6&center=true&vCenter=true&width=435&lines=Advancing+my+professional+skills;Exploring+Docker,+Kubernetes,+%26+Automation;Building+innovative+%26+scalable+solutions;Passionate+DevOps+Engineer+%26+Astronomer;Committed+to+continuous+learning" alt="Typing SVG" /></a>
+  <em>A passionate DevOps Engineer, focused on building scalable solutions and exploring the cosmos.</em>
 </p>
+
+- 🔭 I’m currently working on advancing my professional skills.
+- 🌱 I'm exploring the intricacies of Docker, Kubernetes, and automation tools to enhance my expertise.
+- 🚀 I'm focused on developing innovative, scalable solutions that streamline infrastructure management.
+- 🎓 I'm a recent graduate in Electrical and Electronics Engineering, ready to tackle new challenges.
+- 🌟 I'm a passionate astronomy enthusiast, always eager to discover more about the cosmos!
+- 💡 I'm committed to continuous learning and staying updated with the latest industry trends.
 
 ---
 
@@ -27,10 +34,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashi2504&theme=tokyonight" alt="Shashi's Contribution Streak" />
-</p>
-
-<p align="center">
-  <img src="https://skyline.github.com/Shashi2504/2024.png" alt="GitHub Skyline 2024" />
 </p>
 
 ---
