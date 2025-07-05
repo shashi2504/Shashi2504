@@ -1,74 +1,72 @@
-<h1 align="center" style="font-size: 42px;">👋 Hi, I'm Shashi</h1>
+<div align="center">
+  <h1 align="center">Hi, I'm Shashi 👋</h1>
+  <a href="https://github.com/Shashi2504">
+    <img src="https://github.com/Shashi2504/Shashi2504/blob/main/Profile.png?raw=true" width="160" height="160" style="border-radius: 50%;" alt="Shashi's Profile Picture"/>
+  </a>
+  <br/>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&color=8257E6&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+%26+Automation+Enthusiast;Astronomy+Buff+🌌" alt="Typing SVG of my roles" />
+</div>
 
-<p align="center">
-  <img src="https://github.com/Shashi2504/Shashi2504/blob/main/Profile.png?raw=true" width="160" height="160" style="border-radius: 50%;" />
+---
+
+### 🔍 About Me
+- 🎓 Recent graduate in **Electrical and Electronics Engineering**.
+- 🌱 Deep-diving into **Kubernetes, Docker, Jenkins, Terraform, and Cloud platforms**.
+- 🧠 Always asking *what's under the hood* — I like understanding how tools really work.
+- 🛠️ Turning concepts into real-world scalable solutions.
+- 🌟 Believer in learning, sharing, and building systems that last.
+
+---
+
+### 🧰 Tech Stack
+
+#### 💻 Languages & Scripting
+<p align="left">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/groovy-%234298B8.svg?style=for-the-badge&logo=apache-groovy&logoColor=white" alt="Groovy"/></a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
 </p>
 
-<p align="center">
-DevOps Engineer | Cloud & Automation Enthusiast | Astronomy Buff 🌌  
+#### 🐧 Operating Systems
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/></a>
+  <a href="https://www.centos.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CentOS-212259?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS"/></a>
+</p>
+
+#### ☁️ Cloud & DevOps Tools
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/></a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
+  <a href="https://helm.sh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/></a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></a>
+  <a href="https://prometheus.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/></a>
+  <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
 </p>
 
 ---
 
-## 🔍 About Me
-
-- 🎓 Recent graduate in **Electrical and Electronics Engineering**
-- 🌱 Deep-diving into **Kubernetes, Docker, Jenkins, Terraform, and Cloud platforms**
-- 🧠 Always asking *what's under the hood* — I like understanding how tools really work
-- 🛠️ Turning concepts into real-world scalable solutions
-- 🌟 Believer in learning, sharing, and building systems that last
-
----
-
-## 🧰 Tech Stack
-
-### 💻 Languages & Scripting
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" title="Python" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/groovy/groovy.png" title="Groovy" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png" title="Go" width="30"/>
-</p>
-
-### 🐧 Operating Systems
-<p align="left">
-  <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" title="Linux" width="30"/>
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" title="Ubuntu" width="30"/>
-  <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" title="CentOS" width="30"/>
-</p>
-
-### ☁️ Cloud & DevOps Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" title="Ansible" width="30"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" title="Terraform" width="30"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" title="Docker" width="30"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="Kubernetes" width="30"/>
-  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" title="Helm" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png" title="Nginx" width="30"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" title="Prometheus" width="30"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" title="Grafana" width="30"/>
-</p>
-
----
-
-## ✍️ Latest Blog Posts
-
+### ✍️ Latest Blog Posts
 <!-- MEDIUM_BLOG:START -->
 <table>
-<tr>
-<td><img src="https://miro.medium.com/v2/resize:fit:300/format:webp/1*gYg8driE-oB9w6y5MNS5Pw.jpeg" width="80"/></td>
-<td><a href="https://medium.com/weeklycloud/how-to-achieve-zero-downtime-with-blue-green-deployments-in-kubernetes-f16612b5c257"><strong>Zero Downtime with Blue-Green Deployments</strong></a><br>Deliver production changes safely using Kubernetes.</td>
-</tr>
-<tr>
-<td><img src="https://miro.medium.com/v2/resize:fit:300/format:webp/1*oKgF3wdAK7bM2Mr-ImUVOw.png" width="80"/></td>
-<td><a href="https://medium.com/weeklycloud/how-to-manage-your-kubernetes-secrets-with-terraform-e41dce31e9df"><strong>Kubernetes Secrets with Terraform</strong></a><br>Secure and manage secrets using Infrastructure as Code.</td>
-</tr>
-<tr>
-<td><img src="https://miro.medium.com/v2/resize:fit:300/format:webp/1*nJhabZ_k2RckDJ2HO3ravA.jpeg" width="80"/></td>
-<td><a href="https://medium.com/weeklycloud/how-these-bash-scripts-improve-you-daily-tasks-b215ebaf6020"><strong>Bash Scripts for Daily Tasks</strong></a><br>Automate repetitive work with simple and powerful scripts.</td>
-</tr>
+  <tr>
+    <td><img src="https://miro.medium.com/v2/resize:fit:300/format:webp/1*gYg8driE-oB9w6y5MNS5Pw.jpeg" width="80" alt="Blog post thumbnail for Blue-Green Deployments"/></td>
+    <td><a href="https://medium.com/weeklycloud/how-to-achieve-zero-downtime-with-blue-green-deployments-in-kubernetes-f16612b5c257"><strong>Zero Downtime with Blue-Green Deployments</strong></a><br/>Deliver production changes safely using Kubernetes.</td>
+  </tr>
+  <tr>
+    <td><img src="https://miro.medium.com/v2/resize:fit:300/format:webp/1*oKgF3wdAK7bM2Mr-ImUVOw.png" width="80" alt="Blog post thumbnail for Kubernetes Secrets with Terraform"/></td>
+    <td><a href="https://medium.com/weeklycloud/how-to-manage-your-kubernetes-secrets-with-terraform-e41dce31e9df"><strong>Kubernetes Secrets with Terraform</strong></a><br/>Secure and manage secrets using Infrastructure as Code.</td>
+  </tr>
+  <tr>
+    <td><img src="https://miro.medium.com/v2/resize:fit:300/format:webp/1*nJhabZ_k2RckDJ2HO3ravA.jpeg" width="80" alt="Blog post thumbnail for Bash Scripts"/></td>
+    <td><a href="https://medium.com/weeklycloud/how-these-bash-scripts-improve-you-daily-tasks-b215ebaf6020"><strong>Bash Scripts for Daily Tasks</strong></a><br/>Automate repetitive work with simple and powerful scripts.</td>
+  </tr>
 </table>
 <!-- MEDIUM_BLOG:END -->
 
@@ -76,26 +74,17 @@ DevOps Engineer | Cloud & Automation Enthusiast | Astronomy Buff 🌌
 
 ---
 
-## 📫 Connect with Me
-
+### 📫 Connect with Me
 <p align="left">
-  <a href="mailto:shashireddy0403@gmail.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/85930567/175770833-302b4ef2-faeb-421f-88eb-744737a4ad74.png" height="30"/>
-  </a>
-  <a href="https://www.linkedin.com/in/d-v-shashidhar-reddy-9614291b7/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/85930567/175769904-8f101a4f-5415-4855-83d8-11e8c1ee37b1.png" height="30"/>
-  </a>
-  <a href="https://www.instagram.com/shashi_d04/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/85930567/175769762-aa808175-4426-428d-b383-8edd363c3573.png" height="30"/>
-  </a>
+  <a href="mailto:shashireddy0403@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/d-v-shashidhar-reddy-9614291b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/shashi_d04/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
 
-## 🔍 Under the Hood
-
+### 🔍 Under the Hood
 I'm deeply interested in the internals of the tools I use. I love exploring:
-
 - 🔍 How Docker layers reduce build time
 - 🌐 How Kubernetes handles service discovery and networking
 - 🔐 What exactly happens when Terraform stores a Kubernetes secret
@@ -103,6 +92,3 @@ I'm deeply interested in the internals of the tools I use. I love exploring:
 - 🧬 What “declarative” truly means in IaC tools like Kubernetes or Terraform
 
 > _If a tool is a black box, I like to open the lid and peek inside._
-
----
-
