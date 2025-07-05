@@ -51,6 +51,13 @@
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/>
 </p>
 
+## My GitHub Stats
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shashi2504&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Shashi's GitHub Stats" />
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashi2504&layout=compact&langs_count=8&theme=tokyonight" alt="Shashi's Top Languages" />
+</p>
+
 ## Latest Blog Posts on Medium by Shashi 👇
 <!-- MEDIUM_BLOG:START -->
 <table>
