@@ -10,6 +10,27 @@
 
 ---
 
+### 🚀 Featured Projects
+
+Here are a few projects I've worked on. You can replace these with your own!
+
+1.  **Automated CI/CD Pipeline for a Node.js App**
+    - **Description:** Built a complete CI/CD pipeline using Jenkins that automatically builds a Docker image, runs tests, and deploys a web application to a Kubernetes cluster.
+    - **Tech Stack:** `Jenkins`, `Docker`, `Kubernetes`, `GitHub`
+    - **Link:** `[View on GitHub](https://github.com/your-username/your-repo)`
+
+2.  **Infrastructure as Code for AWS VPC**
+    - **Description:** Wrote Terraform scripts to provision a secure and scalable network infrastructure on AWS, including a VPC, public/private subnets, NAT Gateway, and security groups.
+    - **Tech Stack:** `Terraform`, `AWS`, `IaC`
+    - **Link:** `[View on GitHub](https://github.com/your-username/your-repo)`
+
+3.  **Kubernetes Monitoring with Prometheus & Grafana**
+    - **Description:** Deployed a full monitoring stack on a K8s cluster using Helm charts for Prometheus and Grafana. Created custom dashboards to visualize cluster health and application performance.
+    - **Tech Stack:** `Prometheus`, `Grafana`, `Kubernetes`, `Helm`
+    - **Link:** `[View on GitHub](https://github.com/your-username/your-repo)`
+
+---
+
 ### 🔍 About Me
 - 🎓 Recent graduate in **Electrical and Electronics Engineering**.
 - 🌱 Deep-diving into **Kubernetes, Docker, Jenkins, Terraform, and Cloud platforms**.
@@ -23,31 +44,31 @@
 
 #### 💻 Languages & Scripting
 <p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/groovy-%234298B8.svg?style=for-the-badge&logo=apache-groovy&logoColor=white" alt="Groovy"/></a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="Groovy" width="40" height="40"/></a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/></a>
 </p>
 
 #### 🐧 Operating Systems
 <p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/></a>
-  <a href="https://www.centos.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CentOS-212259?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/></a>
+  <a href="https://www.centos.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" alt="CentOS" width="40" height="40"/></a>
 </p>
 
 #### ☁️ Cloud & DevOps Tools
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/></a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
-  <a href="https://helm.sh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/></a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></a>
-  <a href="https://prometheus.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/></a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/></a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
+  <a href="https://helm.sh" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/></a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/></a>
+  <a href="https://prometheus.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/></a>
+  <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/></a>
 </p>
 
 ---
@@ -75,7 +96,7 @@
 ---
 
 ### 📫 Connect with Me
-<p align="left">
+<p align="center">
   <a href="mailto:shashireddy0403@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/d-v-shashidhar-reddy-9614291b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/shashi_d04/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
