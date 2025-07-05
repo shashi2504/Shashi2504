@@ -3,7 +3,7 @@
 ![Profile Image](https://github.com/Shashi2504/Shashi2504/blob/main/Profile.png?raw=true)
 
 <p align="center">
-  <em>A passionate DevOps Engineer and recent Electrical and Electronics Engineering graduate, focused on building scalable solutions and exploring the cosmos.</em>
+  <em>A passionate DevOps Engineer, focused on building scalable solutions and exploring the cosmos.</em>
 </p>
 
 - 🔭 I’m currently working on advancing my professional skills.
