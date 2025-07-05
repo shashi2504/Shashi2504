@@ -36,10 +36,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashi2504&theme=tokyonight" alt="Shashi's Contribution Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashi2504&bg_color=1a1b27&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
 ---
 
 ### 🛠️ My Tech Stack
