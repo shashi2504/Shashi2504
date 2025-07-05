@@ -2,8 +2,8 @@
 
 ![Profile Banner](https://sjc.microlink.io/8ep7_fZMzkpvcISNDeeVrC3JE5DOcXE9Ko_bqfKOZknY0QfZTnCZeIFAZ_TuU6MXUIBcjhYEJsy9hDKHXkloAw.jpeg)
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/Shashi2504/count.svg" alt="Visitor Count" />
+<p align="center">
+  <em>A passionate DevOps Engineer and recent Electrical and Electronics Engineering graduate, focused on building scalable solutions and exploring the cosmos.</em>
 </p>
 
 - 🔭 I’m currently working on advancing my professional skills.
@@ -21,11 +21,23 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Shashi2504&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Shashi2504&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Shashi's GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashi2504&layout=compact&langs_count=8&theme=tokyonight" alt="Shashi's Top Languages" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shashi2504&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Shashi's GitHub Stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashi2504&theme=tokyonight" alt="Shashi's Contribution Streak" />
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashi2504&layout=compact&langs_count=8&theme=tokyonight" alt="Shashi's Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashi2504&theme=tokyonight" alt="Shashi's Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashi2504&bg_color=1a1b27&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
