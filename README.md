@@ -6,20 +6,17 @@
   <em>A passionate DevOps Engineer, focused on building scalable solutions and exploring the cosmos.</em>
 </p>
 
-- 🔭 I’m currently working on advancing my professional skills.
-- 🌱 I'm exploring the intricacies of Docker, Kubernetes, and automation tools to enhance my expertise.
-- 🚀 I'm focused on developing innovative, scalable solutions that streamline infrastructure management.
-- 🎓 I'm a recent graduate in Electrical and Electronics Engineering, ready to tackle new challenges.
+- 🎓 I'm currently pursuing an M.Tech in Cybersecurity Systems and Networks.
+- 🔐 I'm working on AWS, Terraform, and cloud security projects.
+- 🌱 I'm exploring Kubernetes, Docker, Helm, and DevOps automation.
+- 🚀 I'm focused on building secure and scalable infrastructure solutions.
+- 🛡️ I'm exploring Zero Trust and cloud-native security technologies.
 - 🌟 I'm a passionate astronomy enthusiast, always eager to discover more about the cosmos!
 - 💡 I'm committed to continuous learning and staying updated with the latest industry trends.
 
 ---
 
 ### 📊 My GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shashi2504&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
-</p>
 
 <table align="center">
   <tr>
@@ -33,7 +30,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashi2504&theme=tokyonight" alt="Shashi's Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Shashi2504&theme=tokyonight" alt="Shashi's Contribution Streak" />
 </p>
 
 ---
@@ -66,7 +63,7 @@
       <a href="https://www.ansible.com/" target="_blank"><img title="Ansible" width="40" height="40" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"/></a>
       <a href="https://www.terraform.io/" target="_blank"><img title="Terraform" width="40" height="40" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"/></a>
       <a href="https://www.jenkins.io/" target="_blank"><img title="Jenkins" width="40" height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/></a>
-      <a href="https://www.docker.com/" target="_blank"><img title="Docker" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/></a>
+      <a href="https://www.docker.com/" target="_blank"><img title="Docker" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/docker/docker.png"/></a>
       <a href="https://kubernetes.io/" target="_blank"><img title="Kubernetes" width="40" height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"/></a>
       <a href="https://helm.sh/" target="_blank"><img title="Helm" width="40" height="40" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"/></a>
       <a href="https://www.nginx.com/" target="_blank"><img title="Nginx" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png"/></a>
